@@ -7,3 +7,6 @@ I'm currently enrolled in a B.S. Cybersecurity Program.
 My current areas of interest are Crypto/Blockchain technologies and Hardware/Network Security. 
 
 - 📫 Check out my [LinkedIn](https://www.linkedin.com/in/logan-miller-18889b222/) and [Twitter](https://twitter.com/wrr2216)
+
+
+[![My Skills]([https://skillicons.dev/icons?i=js,html,css,wasm](https://skillicons.dev/icons?i=js,html,css,php,cs,python,java,lua,arduino,css,discord,git,github,linux,mysql,powershell,raspberrypi,stackoverflow,visualstudio,vscode&perline=5))](https://skillicons.dev)
